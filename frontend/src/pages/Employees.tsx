@@ -78,7 +78,7 @@ export default function Employees() {
             className="btn btn-primary flex items-center gap-2 px-6 py-3 rounded-2xl font-bold shadow-lg shadow-primary-200 bg-primary-600 text-white hover:bg-primary-700 transition-all"
           >
             <UserPlus size={18} />
-            Provision Node
+            Add Employee
           </button>
         </div>
       </div>
